@@ -21,3 +21,5 @@ typeof( [1] + [1] )
 {number: 1} + {number: 1}
 typeof( {number: 1} + {number: 1} )
 ```
+
+---
