@@ -20,3 +20,7 @@
 ---?include=declare/let.md
 ---?include=declare/const.md
 ---?include=declare/best_practices.md
+
+---?include=objectives/assign_and_retrieve.md
+---?include=assign_and_retrieve/do_now.md
+---?include=assign_and_retrieve/assign_and_retrieve.md
