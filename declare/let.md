@@ -4,7 +4,9 @@
 * But can only be declared once per variable
 
 ```
-let rhyme = 1
+let rhyme
+
+rhyme = 1
 let rhyme = 2
 // => Uncaught SyntaxError: Identifier 'rhyme' has already been declared
 let other_rhyme = "buckle my shoe"
