@@ -9,10 +9,8 @@
 ---?include=review/object.md
 
 ---?include=objectives/declare_variable.md
----?include=objectives/why.md
 
 ---?include=dry/dry.md
----?include=dry/dry-example.md
 ---?include=dry/do_now.md
 
 ---?include=objectives/declare.md
