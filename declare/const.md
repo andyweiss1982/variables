@@ -12,7 +12,7 @@ const rhyme = 1
 const rhyme = 2
 // => Uncaught SyntaxError: Identifier 'rhyme' has already been declared
 
-const other_rhyme = "buckle my shoe"
+const otherRhyme = "buckle my shoe"
 other_rhyme = 3
 // => Uncaught TypeError: Assignment to constant variable.
 ```

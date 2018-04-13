@@ -11,10 +11,10 @@ let rhyme = 2
 // => Uncaught SyntaxError: Identifier 'rhyme' has already been declared
 
 let other_rhyme = "buckle my shoe"
-other_rhyme = 3
-other_rhyme = 4
+otherRhyme = 3
+otherRhyme = 4
 let other_rhyme = "shut the door"
-// => Uncaught SyntaxError: Identifier 'other_rhyme' has already been declared
+// => Uncaught SyntaxError: Identifier 'otherRhyme' has already been declared
 ```
 
 ---
