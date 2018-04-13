@@ -16,4 +16,6 @@
 ---?include=objectives/declare.md
 ---?include=declare/keywords.md
 
----?include=declare.var.md
+---?include=declare/var.md
+---?include=declare/let.md
+---?include=declare/const.md

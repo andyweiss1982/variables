@@ -13,3 +13,22 @@ other_rhyme = 4
 let other_rhyme = "shut the door"
 // => Uncaught SyntaxError: Identifier 'other_rhyme' has already been declared
 ```
+
+---
+
+## `let`
+
+Hoisting rules similar to `var`
+
+```js
+console.log(foo)
+// undefined
+
+let foo
+```
+
+
+```js
+console.log(foo)
+// ReferenceError: foo is not defined
+```
