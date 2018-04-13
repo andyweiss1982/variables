@@ -21,7 +21,8 @@ https://repl.it/@andyweiss1982/goals
 
 ---
 
-### Advanced Retrieval (Working with Variables)
+### Advanced Retrieval
+#### (Working with Variables)
 
 * Math
 * Don't forget to use `let` for values that will change
