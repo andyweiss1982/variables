@@ -1,4 +1,4 @@
-### Keywords
+### Declare with Keywords
 
 * `var`
 * `let`
