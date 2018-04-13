@@ -32,11 +32,18 @@ rhyme = "shut the door"
 ---
 ## `var`
 
-Things will be OK as long as you call it somewhere
+Things will be OK as long as you declare it somewhere
 
 ```js
 console.log(foo)
 // undefined
 
 var foo
+```
+
+But don't forget to declare it!
+
+```js
+console.log(foo)
+// ReferenceError: foo is not defined
 ```
