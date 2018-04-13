@@ -8,16 +8,4 @@
 // => 255
 ```
 
-```
-var people = 17
-
-var heads     = people * 1
-var shoulders = people * 2
-var knees     = people * 2
-var toes      = people * 10
-
-heads + shoulders + knees + toes
-// => 255
-```
-
 https://repl.it/@andyweiss1982/headsShouldersKneesAndToes
