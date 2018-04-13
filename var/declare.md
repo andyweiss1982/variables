@@ -15,7 +15,7 @@ var rhyme = "shut the door"
 ---
 ## `var`
 
-* But best practice to declare once at top of scope
+Best practice to declare once at top of scope
 
 ```js
 var rhyme
