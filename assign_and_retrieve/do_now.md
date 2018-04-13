@@ -1,7 +1,7 @@
 ### Do Now
 
 Let's tell a story with code.
-Declare and assign variables and constants for each of the following:
+Declare and assign constants for each of the following:
 
 * Your `name`
 * Your `birthplace`

@@ -24,3 +24,4 @@
 ---?include=objectives/assign_and_retrieve.md
 ---?include=assign_and_retrieve/do_now.md
 ---?include=assign_and_retrieve/assign_and_retrieve.md
+---?include=objectives/complete.md

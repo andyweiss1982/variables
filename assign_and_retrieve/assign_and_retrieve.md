@@ -1,21 +1,13 @@
 ### Assignment
 
 * `const`: set it and forget it
-* `var` and `let` can be reassigned
 
 ```js
 const name              = "Andy"
 const birthplace        = "New Jersey"
-let   age               = 31
-let   job               = "teacher"
-let   careerAspiration  = "developer"
-
-age = age + 1
-job = careerAspiration
-age += 1
-age += 1
-age += 1
-careerAspiration = "teacher"
+const age               = 31
+const job               = "teacher"
+const careerAspiration  = "developer"
 ```
 
 ---
@@ -23,7 +15,15 @@ careerAspiration = "teacher"
 ### Retrieval
 
 * `console.log`
-* Math
 * String interpolation
 
 https://repl.it/@andyweiss1982/goals
+
+---
+
+### Advanced Retrieval (Working with Variables)
+
+* Math
+* Don't forget to use `let` for values that will change
+
+https://repl.it/@andyweiss1982/goals2
