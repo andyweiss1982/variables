@@ -25,6 +25,7 @@ https://repl.it/@andyweiss1982/goals
 #### (Working with Variables)
 
 * Math
-* Don't forget to use `let` for values that will change
+* Reassignment
+* (Use `const` unless you know value will change)
 
 https://repl.it/@andyweiss1982/goals2
