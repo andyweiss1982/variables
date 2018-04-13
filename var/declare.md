@@ -1,7 +1,7 @@
-## var
+## `var`
 
-* Kind of old school, but valid
-* Can be declared as many times as you like
+* Kind of old school, but not dead yet
+* Doesn't care how often you call it
 
 ```
 var rhyme = 1
@@ -12,7 +12,7 @@ var rhyme = 4
 var rhyme = "shut the door"
 ```
 
-* Best practice to declare at top of scope
+* But best practice to declare once at top of scope
 
 ```js
 var rhyme
