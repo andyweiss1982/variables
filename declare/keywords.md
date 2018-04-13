@@ -2,4 +2,4 @@
 
 * `var`
 * `let`
-* `cons`
+* `const`
