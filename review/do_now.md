@@ -1,6 +1,6 @@
 ### Do Now
 
-Write down the expected output of entering each line of code into a browser Javascript console
+Write down the expected output of each line
 
 ```js
 1 + 1
