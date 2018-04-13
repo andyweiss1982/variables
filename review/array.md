@@ -10,7 +10,7 @@ typeof( [1] + [1] )
 
 ---
 
-### Adding Arrays
+### Adding Arrays?
 
 ```js
 [1] + [1]

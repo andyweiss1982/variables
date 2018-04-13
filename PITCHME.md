@@ -7,7 +7,6 @@
 ---?include=review/string.md
 ---?include=review/array.md
 ---?include=review/object.md
----?include=review/shrug.md
 
 ---?include=objectives/declare_variable.md
 ---?include=objectives/why.md

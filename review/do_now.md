@@ -1,6 +1,6 @@
 ### Do Now
 
-Write down the expected output of each line
+What's the output of each line?
 
 ```js
 1 + 1
