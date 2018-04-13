@@ -26,3 +26,6 @@
 ---?include=assign_and_retrieve/assign_and_retrieve.md
 ---?include=objectives/complete.md
 ---?include=assign_and_retrieve/gotchas.md
+---?include=assign_and_retrieve/assessment.md
+
+---?include=title.md
