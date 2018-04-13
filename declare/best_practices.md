@@ -1,6 +1,6 @@
 ## `var`, `let` & `const`
 
-Allow us to name hidden assumptions in our code.
+Allow us to name hidden assumptions in our code&nbsp;&nbsp;
 (The hardest problem in computer science)
 
 * Use `const` when values will never change
