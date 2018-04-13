@@ -13,7 +13,6 @@
 ---?include=review/object-a.md
 ---?include=review/shrug.md
 
----?include=title.md
 ---?include=objectives/declare_variable.md
 ---?include=objectives/why.md
 
