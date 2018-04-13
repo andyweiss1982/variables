@@ -4,13 +4,12 @@ Cannot be reassigned, but can be modified
 
 ```js
 const interests = ["paddleboarding", "racquetball"]
-interest.push("tennis")
-
-interests
-// => ["paddleboarding", "racquetball", "tennis"]
 
 interests = ["baseball", "basketball"]
 // => Uncaught TypeError: Assignment to constant variable.
+
+interest.push("tennis")
+// => ["paddleboarding", "racquetball", "tennis"]
 ```
 
 ---
@@ -21,13 +20,14 @@ Cannot be reassigned, but can be modified
 
 ```js
 const me = {name: "Andy", age: 35}
+
+me = {name: "Someone Else"}
+// => Uncaught TypeError: Assignment to constant variable
+
 me.age = 36
 
 me
 // => {name: "Andy", age: 36}
-
-me = {name: "Someone Else"}
-// => Uncaught TypeError: Assignment to constant variable
 ```
 
 ---
