@@ -2,9 +2,7 @@
 ## In Javascript
 
 ---?include=objectives.md
-
-# Review
-
+---?include=review/review.md
 ---?include=review/do_now.md
 ---?include=review/number-q.md
 ---?include=review/number-a.md
