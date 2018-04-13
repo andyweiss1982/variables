@@ -1,7 +1,7 @@
 ## `var`
 
 * Kind of old school, but not dead yet
-* Doesn't care how often you call it
+* Doesn't care how often you declare it
 
 ```
 var rhyme = 1
@@ -27,4 +27,16 @@ rhyme = 3
 rhyme = 4
 rhyme = "shut the door"
 
+```
+
+---
+## `var`
+
+Things will be OK as long as you call it somewhere
+
+```js
+console.log(foo)
+// undefined
+
+var foo
 ```
