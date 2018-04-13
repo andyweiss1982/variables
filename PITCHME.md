@@ -20,3 +20,8 @@
 ---?include=dry/dry-example.md
 ---?include=dry/do_now-q.md
 ---?include=dry/do_now-a.md
+
+---?include=objectives/declare.md
+---?include=declare/keywords.md
+
+---?include=var/declare.md
