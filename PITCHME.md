@@ -1,7 +1,5 @@
-# Constants and Variables
-## In Javascript
-
----?include=objectives.md
+---?include=title.md
+---?include=objectives/objectives.md
 
 ---?include=review/review.md
 ---?include=review/do_now.md
@@ -15,6 +13,9 @@
 ---?include=review/object-a.md
 ---?include=review/shrug.md
 
----?include=objectives.md
+---?include=title.md
+---?include=objectives/declare_variable.md
+---?include=objectives/why.md
 
----?include=var/why.md
+---?include=var/dry.md
+---?include=var/dry-example.md
