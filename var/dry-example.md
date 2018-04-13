@@ -20,4 +20,4 @@ typeof( [1] + [1] )
 typeof( {number: 1} + {number: 1} )
 ```
 
-https://repl.it/@andyweiss1982/oneplusone
+https://repl.it/@andyweiss1982/onePlusOne

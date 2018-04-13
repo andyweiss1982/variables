@@ -18,3 +18,5 @@
 
 ---?include=var/dry.md
 ---?include=var/dry-example.md
+---?include=var/do_now-q.md
+---?include=var/do_now-a.md

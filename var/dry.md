@@ -1,2 +1,2 @@
-## Keeping it D.R.Y.
+## D.R.Y.
 ### (Don't Repeat Yourself)
