@@ -16,5 +16,3 @@ const other_rhyme = "buckle my shoe"
 other_rhyme = 3
 // => Uncaught TypeError: Assignment to constant variable.
 ```
-
-https://repl.it/@andyweiss1982/headsShouldersKneesToes2
