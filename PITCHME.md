@@ -14,3 +14,7 @@
 ---?include=review/object-q.md
 ---?include=review/object-a.md
 ---?include=review/shrug.md
+
+---?include=objectives.md
+
+---?include=var/why.md
