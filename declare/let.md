@@ -9,6 +9,7 @@ let rhyme
 rhyme = 1
 let rhyme = 2
 // => Uncaught SyntaxError: Identifier 'rhyme' has already been declared
+
 let other_rhyme = "buckle my shoe"
 other_rhyme = 3
 other_rhyme = 4
