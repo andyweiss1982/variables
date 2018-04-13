@@ -16,7 +16,7 @@
 ---?include=objectives/declare_variable.md
 ---?include=objectives/why.md
 
----?include=var/dry.md
----?include=var/dry-example.md
----?include=var/do_now-q.md
----?include=var/do_now-a.md
+---?include=dry/dry.md
+---?include=dry/dry-example.md
+---?include=dry/do_now-q.md
+---?include=dry/do_now-a.md
